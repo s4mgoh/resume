@@ -62,6 +62,10 @@
   Currently in *Institute of Technical Education (College Central)*, with a GPA of 3.912
 
   Served as President of *Network & Security Technology (NST) Club*
+
+  Organized *NST Cyber Dominion CTF* (13 Dec 2025 - 15 Jan 2026)
+  - Handled infrastructure for platform & challenges using DigitalOcean & Docker
+  - Created web, osint, and cryptography challenges
 ]
 
 #let experience = () => [
@@ -80,13 +84,17 @@
   #experience-header([Intern, Custodio Technologies], [Apr 2025 - Aug 2025])
 
   Interned at *Custodio Technologies* & assisted with
-  the product design of CyPenPoint, that does non-intrusive mapping of the target network 
+  the product design (Figma & Codebase) of CyPenPoint, that does non-intrusive mapping of the target network 
   to build a digital asset map & utilises AI-driven techniques such as deep reinforcement 
   learning & LLMs to simulate sophisticated attacks on the generated asset map, all while 
   being agentless.
 
   Conducted a phishing campaign for company employees with emails that are visually 
   similar to Microsoft's standard emails & basic penetration tests for company products.
+
+  Side Projects during Internship
+  - Configuring USB Armory MK 2 as a Keylogger
+  - Creating a Vulnerable Machine (HTB-Style) that offers SQL Injection, JWT Kid Header Injection, and others
 ]
 
 #let ctfs = () => [
